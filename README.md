@@ -2,6 +2,7 @@
 
 ## これは近畿大学のシラバスです。
 ## 学生同士の交流やOB訪問、過去問情報などに支えてもらえたらと思います。
+## 現在製作中で夏明けにリリース予定。共同製作者を募集しています。
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
